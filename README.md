@@ -7,12 +7,12 @@ To install the development version of BWMR, it's easiest to use the 'devtools' p
 ```
 # install.packages("devtools")
 library(devtools)
-install_github("jiazhao97/BWMR")
+install_github("YangLabHKUST/BWMR")
 ```
 
 
 # Usage
-[The 'BWMR' vignette](https://github.com/jiazhao97/BWMR/blob/master/vignettes/BWMR_package.pdf?raw=true) will provide a good start point for Mendelian randomization analysis using BWMR package. The main function is BWMR. You can find examples by running
+[The 'BWMR' vignette](https://github.com/YangLabHKUST/BWMR/blob/master/vignettes/BWMR_package.pdf?raw=true) will provide a good start point for Mendelian randomization analysis using BWMR package. The main function is BWMR. You can find examples by running
 ```
 library(ggplot2)
 library(BWMR)
@@ -25,5 +25,5 @@ Jia Zhao, Jingsi Ming, Xianghong Hu, Gang Chen, Jin Liu, Can Yang, Bayesian weig
 
 
 # Development
-This R package is developed by Jia Zhao.
+This R package is developed by Jia Zhao (jzhaoaz@connect.ust.hk).
 
