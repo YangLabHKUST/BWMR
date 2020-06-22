@@ -27,3 +27,5 @@ Jia Zhao, Jingsi Ming, Xianghong Hu, Gang Chen, Jin Liu, Can Yang, Bayesian weig
 # Development
 This R package is developed by Jia Zhao (jzhaoaz@connect.ust.hk).
 
+# Contact information
+Please feel free to contact Jia Zhao (jzhaoaz@connect.ust.hk) or Prof. Can Yang (macyang@ust.hk) if any questions.
